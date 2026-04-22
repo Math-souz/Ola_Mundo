@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(150, 14, 212);
+    margin: o;
+  }
+.pai{
+   display: flex;
+   justify-content: space-between;
+   align-items: flex-start;
+   height: 100vh;
+   padding: 20px;
+
+
+
+
+}  
+#container1 {
+     display: flex;
+     justify-content: space-between;
+     align-items: flex-start;
+     height: 100vh;
+  }
+
+#box1 {
+    background-color: antiquewhite;
+    color: rgb(0, 0, 0);
+    padding: 30px;
+    border-radius: 20px;
+
+
+ } 
+
+ #container2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    height: 100vh;
+ }
+
+#box2 {
+   background-color: antiquewhite;
+   color: rgb(0, 0, 0);
+   padding: 30px;
+   border-radius: 20px;
+
+
+}  
