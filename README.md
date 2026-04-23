@@ -3,6 +3,7 @@ Projeto desenvolvido com o intuido de treinar layout.
 
 ## Funcionalidades
 - Dois containers lado a lado
+- um com imagem e o outro com biografia ficticia
 - Alinhamento com flexbox
 - Conteúdo posicionado no topo
 
